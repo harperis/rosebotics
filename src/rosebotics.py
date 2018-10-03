@@ -10,7 +10,7 @@ from enum import Enum
 
 class StopAction(Enum):
     COAST = 'coast'
-    BRAKE = 'brake'
+    BRAKE = 'brake' 
     HOLD = 'hold'
 
 
